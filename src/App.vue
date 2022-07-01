@@ -21,7 +21,8 @@ export default {
         { to: '/panel', title: '引入左侧工具栏和右侧属性栏' },
         { to: '/axios', title: '通过网络请求获取bpmn并渲染' },
         { to: '/save', title: '保存bpmn并发送给后台' },
-        { to: '/event', title: '绑定event事件' }
+        { to: '/event', title: '绑定event事件' },
+        { to: '/custom-palette', title: '自定义palette' }
       ]
     }
   }

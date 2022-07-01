@@ -15,6 +15,8 @@ import 'bpmn-js/dist/assets/bpmn-font/css/bpmn-codes.css'
 import 'bpmn-js/dist/assets/bpmn-font/css/bpmn-embedded.css'
 // 右侧属性栏样式
 import '@bpmn-io/properties-panel/assets/properties-panel.css'
+// 引入全局样式app.css
+import './css/app.css'
 
 new Vue({
   router,

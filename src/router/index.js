@@ -35,6 +35,11 @@ const routes = [{
         path: '/event',
         component: () =>
             import ('../components/event')
+    },
+    {
+        path: '/custom-palette',
+        component: () =>
+            import ('../components/custom-palette')
     }
 ]
 
