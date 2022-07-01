@@ -23,7 +23,8 @@ export default {
         { to: '/save', title: '保存bpmn并发送给后台' },
         { to: '/event', title: '绑定event事件' },
         { to: '/custom-palette', title: '自定义palette' },
-        { to: '/custom-modeler', title: '完全自定义palette' },
+        { to: '/custom-modeler', title: '完全自定义modeler' },
+        { to: '/custom-renderer', title: '自定义renderer' },
       ]
     }
   }

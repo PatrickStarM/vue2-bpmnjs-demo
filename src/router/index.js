@@ -45,6 +45,11 @@ const routes = [{
         path: '/custom-modeler',
         component: () =>
             import ('../components/custom-modeler')
+    },
+    {
+        path: '/custom-renderer',
+        component: () =>
+            import ('../components/custom-renderer')
     }
 ]
 
